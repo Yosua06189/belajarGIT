@@ -7,3 +7,10 @@ Daftar tugas / branch
 6. Tugas-php
 7. Tugas-finalProject
 Daftar perintah GiT
+8. git branch
+9. git checkout
+10. git add
+11. git commit
+12. git merge
+13. git push
+
